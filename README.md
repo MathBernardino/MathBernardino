@@ -11,7 +11,7 @@
 
 
 <p>
-🎓Faculdade: Bacharel para IA em Sistemas da Informação / São Paulo Tech School 
+🎓Faculdade: Bacharel para IA em Sistemas da Informação / São Paulo Tech School 1/4
 </p>
 
 <br>

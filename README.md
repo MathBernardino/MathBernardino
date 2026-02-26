@@ -6,12 +6,12 @@
 <br>
 
 <p>
-🎓Acadêmico: Técnico em Desenvolvimento de Sistemas / <a href src="https://www.cps.sp.gov.br/etecs/etec-prof-horacio-augusto-da-silveira-vila-guilherme/">ETEC Horácio Augusto</a> 
+🎓Acadêmico: Técnico em Desenvolvimento de Sistemas / ETEC Horácio Augusto
 </p>
 
 
 <p>
-🎓Faculdade: Bacharel para IA em Sistemas da Informação / <a href src="https://sptech.school/">São Paulo Tech School </a>
+🎓Faculdade: Bacharel para IA em Sistemas da Informação / São Paulo Tech School 
 </p>
 
 <br>

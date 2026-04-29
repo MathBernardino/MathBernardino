@@ -17,7 +17,7 @@
 <br>
 
 <p>
-💻Objetivo: Me consolidar no mercado como ótimo programador!
+💻Objetivo: Me consolidar no mercado!
 </h2>
 </p>
 

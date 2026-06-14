@@ -6,12 +6,12 @@
 <br>
 
 <p>
-🎓Acadêmico: Técnico em Desenvolvimento de Sistemas / ETEC Horácio Augusto
+🎓Ensino Técnico: Técnico em Desenvolvimento de Sistemas / ETEC Horácio Augusto
 </p>
 
 
 <p>
-🎓Faculdade: Bacharel para IA em Sistemas da Informação / São Paulo Tech School 1/4
+🎓Faculdade: Bacharel para IA em Sistemas da Informação / São Paulo Tech School
 </p>
 
 <br>
